@@ -12,7 +12,8 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 ## Narrative
 
-[Ren'Py](https://github.com/renpy/renpy)
+- [Ren'Py](https://github.com/renpy/renpy)
+- [Twine](https://github.com/klembot/twinejs)
 
 ## Libraries
 
