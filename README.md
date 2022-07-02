@@ -16,5 +16,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 ## Libraries
 
+[Open Asset Import Library](https://github.com/assimp/assimp)
+
 ## Graphics Tools
 
