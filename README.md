@@ -6,6 +6,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 - [GDevelop](https://github.com/4ian/GDevelop)
 - [Love2D](https://github.com/love2d/love)
+- [Orx](https://github.com/orx)
 - [Phaser](https://github.com/photonstorm/phaser)
 - [PlayN](https://github.com/playn)
 - [Pygame](https://github.com/pygame)
