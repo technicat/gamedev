@@ -23,6 +23,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
 - [Piston](https://github.com/PistonDevelopers)
+- [PlayCanvas](https://github.com/playcanvas)
 - [Pyrogenesis](https://trac.wildfiregames.com/browser/ps/trunk/)
 - [Qfusion](https://github.com/Qfusion)
 - [Spring](https://github.com/spring)
