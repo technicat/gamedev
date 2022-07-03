@@ -1,6 +1,6 @@
 # Open source game development resources
 
-See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_of_game_engines)
+See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_of_game_engines) and LogRocket's list of [Rust game engines](https://blog.logrocket.com/5-rust-game-engines-consider-next-project/).
 
 ## 2D Engines
 
