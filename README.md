@@ -11,6 +11,7 @@
 - [Orx](https://github.com/orx)
 - [Phaser](https://github.com/photonstorm/phaser)
 - [PlayN](https://github.com/playn)
+- [Processing](https://github.com/processing/processing4)
 - [Pygame](https://github.com/pygame)
 - [Solar2D](https://github.com/coronalabs/corona)
 - [Starling](https://github.com/Gamua/Starling-Framework)
