@@ -6,6 +6,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 - [GDevelop](https://github.com/4ian/GDevelop)
 - [Love2D](https://github.com/love2d/love)
+- [Pygame](https://github.com/pygame)
 - [Solar2D](https://github.com/coronalabs/corona)
 - [Starling](https://github.com/Gamua/Starling-Framework)
 - [Stratagus](https://github.com/Wargus/Stratagus)
