@@ -12,6 +12,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [Amethyst](https://github.com/amethyst)
 - [Aleph One](https://github.com/Aleph-One-Marathon)
 - [BabylonJS](https://github.com/BabylonJS)
+- [Bevy](https://github.com/bevyengine)
 - [Bork](https://github.com/moof2k/golf)
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
