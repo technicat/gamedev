@@ -5,7 +5,8 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 ## 2D Engines
 
 - [GDevelop](https://github.com/4ian/GDevelop)
-- [Love](https://github.com/love2d/love)
+- [Love2D](https://github.com/love2d/love)
+- [Solar2D](https://github.com/coronalabs/corona)
 - [Starling](https://github.com/Gamua/Starling-Framework)
 - [Stratagus](https://github.com/Wargus/Stratagus)
 
@@ -20,6 +21,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
 - [Piston](https://github.com/PistonDevelopers)
+- [Spring](https://github.com/spring)
 - [Stride](https://github.com/stride3d)
 - [Stepmania](https://github.com/stepmania)
 - [Three.js](https://github.com/mrdoob/three.js/)
