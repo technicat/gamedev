@@ -24,6 +24,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [Fyrox](https://crates.io/crates/rg3d)
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
+- [OpenMW](https://gitlab.com/OpenMW/openmw)
 - [Panda3D](https://github.com/panda3d)
 - [Piston](https://github.com/PistonDevelopers)
 - [PlayCanvas](https://github.com/playcanvas)
