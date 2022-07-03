@@ -31,6 +31,7 @@
 - [Fyrox](https://crates.io/crates/rg3d)
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
+- [LibGDX](https://github.com/libgdx)
 - [O3DE](https://github.com/o3de)
 - [Ogre](https://github.com/OGRECave/ogre)
 - [OpenMW](https://gitlab.com/OpenMW/openmw)
