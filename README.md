@@ -5,6 +5,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 ## 2D Engines
 
 [GDevelop](https://github.com/4ian/GDevelop)
+[Love](https://github.com/love2d/love)
 
 ## 3D Engines
 
