@@ -9,6 +9,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 ## 3D Engines
 
+- [Amethyst](https://github.com/amethyst)
 - [Aleph One](https://github.com/Aleph-One-Marathon)
 - [BabylonJS](https://github.com/BabylonJS)
 - [Bork](https://github.com/moof2k/golf)
