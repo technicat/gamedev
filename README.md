@@ -10,6 +10,7 @@
 
 - [GDevelop](https://github.com/4ian/GDevelop)
 - [Love2D](https://github.com/love2d/love)
+- [Moai](https://github.com/moai)
 - [OHRRPGCE](https://github.com/ohrrpgce)
 - [OpenClonk](https://github.com/openclonk)
 - [Orx](https://github.com/orx)
