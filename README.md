@@ -66,7 +66,7 @@
 
 ## Libraries
 
-[Open Asset Import Library](https://github.com/assimp/assimp)
+- [Open Asset Import Library](https://github.com/assimp/assimp)
 
 ## Graphics Tools
 
