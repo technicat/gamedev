@@ -9,15 +9,15 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 ## 3D Engines
 
-[Godot](https://github.com/godotengine)
+- [Godot](https://github.com/godotengine)
 
 ## VR
 
-[A-Frame](https://github.com/aframevr/aframe/)
-[Adventure Game Studio](https://github.com/adventuregamestudio)
+- [A-Frame](https://github.com/aframevr/aframe/)
 
 ## Narrative
 
+- [Adventure Game Studio](https://github.com/adventuregamestudio)
 - [Inky](https://github.com/inkle/inky)
 - [Ren'Py](https://github.com/renpy/renpy)
 - [Twine](https://github.com/klembot/twinejs)
