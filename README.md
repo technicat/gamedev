@@ -9,6 +9,7 @@
 ## 2D Engines
 
 - [GDevelop](https://github.com/4ian/GDevelop)
+- [Kivy](https://github.com/kivy)
 - [Love2D](https://github.com/love2d/love)
 - [Moai](https://github.com/moai)
 - [OHRRPGCE](https://github.com/ohrrpgce)
