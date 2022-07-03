@@ -18,6 +18,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
 - [Piston](https://github.com/PistonDevelopers)
+- [Stride](https://github.com/stride3d)
 - [Three.js](https://github.com/mrdoob/three.js/)
 - [Torque](https://github.com/TorqueGameEngines)
 - [Visual Pinball](https://github.com/vpinball)
