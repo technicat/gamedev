@@ -6,6 +6,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 
 - [GDevelop](https://github.com/4ian/GDevelop)
 - [Love](https://github.com/love2d/love)
+- [Stratagus](https://github.com/Wargus/Stratagus)
 
 ## 3D Engines
 
