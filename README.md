@@ -14,6 +14,7 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [BabylonJS](https://github.com/BabylonJS)
 - [Bevy](https://github.com/bevyengine)
 - [Bork](https://github.com/moof2k/golf)
+- [Fyrox](https://crates.io/crates/rg3d)
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
 - [Torque](https://github.com/TorqueGameEngines)
