@@ -35,11 +35,15 @@ See also Wikipedia's [list of game engines](https://en.wikipedia.org/wiki/List_o
 - [Three.js](https://github.com/mrdoob/three.js/)
 - [Torque](https://github.com/TorqueGameEngines)
 - [Visual Pinball](https://github.com/vpinball)
-- [WorldForge](https://github.com/worldforge)
 
-## VR
+## Virtual Reality
 
 - [A-Frame](https://github.com/aframevr/aframe/)
+
+## Virtual Worlds
+
+- [OpenSimulator](http://opensimulator.org/viewgit/?a=shortlog&p=opensim)
+- [WorldForge](https://github.com/worldforge)
 
 ## Narrative
 
