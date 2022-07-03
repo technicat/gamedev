@@ -29,6 +29,7 @@
 - [Fyrox](https://crates.io/crates/rg3d)
 - [Godot](https://github.com/godotengine)
 - [JMonkeyEngine](https://github.com/jMonkeyEngine)
+- [Ogre](https://github.com/OGRECave/ogre)
 - [OpenMW](https://gitlab.com/OpenMW/openmw)
 - [Panda3D](https://github.com/panda3d)
 - [Piston](https://github.com/PistonDevelopers)
