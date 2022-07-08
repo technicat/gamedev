@@ -3,6 +3,7 @@
 ## 2D Engines
 
 - [GDevelop](https://github.com/4ian/GDevelop)
+- [HaxeFlixel](https://github.com/HaxeFlixel)
 - [Kivy](https://github.com/kivy)
 - [Love2D](https://github.com/love2d/love)
 - [Moai](https://github.com/moai)
