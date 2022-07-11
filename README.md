@@ -69,6 +69,7 @@
 - [libpng](https://github.com/glennrp/libpng)
 - [Open Asset Import Library](https://github.com/assimp/assimp)
 - [SDL](https://github.com/libsdl-org/SDL)
+- [Steamworks.NET](https://steamworks.github.io/)
 
 ## Graphics Tools
 
