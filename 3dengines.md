@@ -1,20 +1,13 @@
 
-## 3D Engines
+# 3D Engines
 
 - [Amethyst](https://github.com/amethyst)
 - [Aleph One](https://github.com/Aleph-One-Marathon)
-- [BabylonJS](https://github.com/BabylonJS)
-- [Bevy](https://github.com/bevyengine)
 - [Bork](https://github.com/moof2k/golf)
 - [Fyrox](https://crates.io/crates/rg3d)
-- [Godot](https://github.com/godotengine)
-- [JMonkeyEngine](https://github.com/jMonkeyEngine)
-- [LibGDX](https://github.com/libgdx)
-- [MonoGame](https://github.com/MonoGame)
 - [O3DE](https://github.com/o3de)
 - [Ogre](https://github.com/OGRECave/ogre)
 - [OpenMW](https://gitlab.com/OpenMW/openmw)
-- [Panda3D](https://github.com/panda3d)
 - [Piston](https://github.com/PistonDevelopers)
 - [PlayCanvas](https://github.com/playcanvas)
 - [Pyrogenesis](https://trac.wildfiregames.com/browser/ps/trunk/)
@@ -22,9 +15,23 @@
 - [Spring](https://github.com/spring)
 - [Stride](https://github.com/stride3d)
 - [Stepmania](https://github.com/stepmania)
-- [Three.js](https://github.com/mrdoob/three.js/)
 - [Torque](https://github.com/TorqueGameEngines)
 - [Visual Pinball](https://github.com/vpinball)
+
+## Javascript
+- [BabylonJS](https://github.com/BabylonJS)
+- [JMonkeyEngine](https://github.com/jMonkeyEngine)
+- [Three.js](https://github.com/mrdoob/three.js/)
+
+## Mono
+- [Godot](https://github.com/godotengine)
+- [MonoGame](https://github.com/MonoGame
+
+## Rust
+- [Bevy](https://github.com/bevyengine)
+
+## Python
+- [Panda3D](https://github.com/panda3d)
 
 ## Virtual Reality
 
