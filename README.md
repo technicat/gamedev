@@ -65,8 +65,9 @@
 
 ## Libraries
 
-- [Open Asset Import Library](https://github.com/assimp/assimp)
-- [SDL](https://github.com/libsdl-org/SDL)
+- [Open Asset Import Library](https://github.com/assimp)
+- [SDL](https://github.com/libsdl-org)
+- [SFML](https://github.com/SFML)
 
 ## Graphics Tools
 
