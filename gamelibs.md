@@ -1,6 +1,4 @@
-# Open source game development resources
-
-## Libraries
+## gamedev libraries
 
 - [FFmpeg](https://github.com/FFmpeg)
 - [LibGDX](https://github.com/libgdx)

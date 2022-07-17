@@ -1,5 +1,3 @@
-# Open source game development resources
-
 ## 2D Engines
 
 - [GDevelop](https://github.com/4ian/GDevelop)

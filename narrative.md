@@ -1,15 +1,10 @@
-# Open source game development resources
-
-
-## Narrative
+## Narrative game engines
 
 - [Adventure Game Studio](https://github.com/adventuregamestudio)
 - [Inform](https://github.com/ganelson/inform)
 - [Inky](https://github.com/inkle/inky)
 - [Ren'Py](https://github.com/renpy/renpy)
 - [Twine](https://github.com/klembot/twinejs)
-
-
 
 ## Other Lists
 
