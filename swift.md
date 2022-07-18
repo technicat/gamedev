@@ -3,10 +3,12 @@
 - [Swift](https://github.com/apple/swift)
 - [Swift Evolution](https://github.com/apple/swift-evolution)
 
-- [Swift collections](https://github.com/apple/swift-collections
+- [Swift algorithms](https://github.com/apple/swift-algorithms)
+- [Swift collections](https://github.com/apple/swift-collections)
 
 ## Formatters
 
-- [Swift collections](https://github.com/nicklockwood/SwiftFormat)
+- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+- [Swimat](https://github.com/Jintin/Swimat)
 
 
